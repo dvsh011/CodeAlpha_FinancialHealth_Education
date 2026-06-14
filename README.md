@@ -13,7 +13,7 @@ This repository contains two Power BI dashboards created during my internship at
 
 ---
 
-## ✅ Task 4: Education Performance Dashboard
+## ✅ Task 2: Education Performance Dashboard
 🎓 Analyzes:
 - Average Score per Department (Bar Chart)
 - Resource Allocation (Donut Chart)
